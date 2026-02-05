@@ -1,0 +1,12 @@
+*{
+    background: #546d6d;
+}
+.button{
+    background: #02814a84;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    background-color: rgb(135, 135, 194);
+}
